@@ -1,0 +1,2 @@
+# HitDice
+Trefferzonen Würfel DSA
