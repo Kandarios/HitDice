@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Pictures/BA.png</file>
+        <file>Pictures/BR.png</file>
+        <file>Pictures/KO.png</file>
+        <file>Pictures/LA.png</file>
+        <file>Pictures/LB.png</file>
+        <file>Pictures/Overview.png</file>
+        <file>Pictures/RA.png</file>
+        <file>Pictures/RB.png</file>
+        <file>Pictures/RU.png</file>
+    </qresource>
+</RCC>
