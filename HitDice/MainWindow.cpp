@@ -14,7 +14,7 @@ MainWindow::MainWindow(QWidget *parent) :
   QPixmap pic =  QPixmap(":/images/Pictures/Overview.png", "PNG");
 
   if(!pic.isNull()) {
-    std::cerr << "Path not NULL" << std::endl;
+    //std::cerr << "Path not NULL" << std::endl;
     ui->label_picture->setPixmap(pic);
   } else {
     std::cerr << "Damn" << std::endl;
@@ -85,7 +85,7 @@ void MainWindow::on_pushButton_role_clicked()
     break;
   }
   if(!pic.isNull()) {
-    std::cerr << "Path not NULL" << std::endl;
+    //std::cerr << "Path not NULL" << std::endl;
     ui->label_picture->setPixmap(pic);
   } else {
     std::cerr << "Damn" << std::endl;
